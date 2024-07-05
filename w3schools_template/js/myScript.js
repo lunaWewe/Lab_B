@@ -16,7 +16,7 @@ function openLink(evt, linkName) {
 // Click on the first tablink on load
 document.getElementsByClassName("tablink")[0].click();
 
-// 好康報報
+// 中間彈出視窗樣式
 var modalElem = document.getElementById("tyModal");
 var spanElem = document.getElementsByClassName("tyClose")[0];
 
